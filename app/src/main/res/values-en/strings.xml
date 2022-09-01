@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bt_yes">Yes</string>
+    <string name="bt_no">No</string>
+    <string name="question">¿Is Lima the Capital of Peru?</string>
+    <string name="bt_next">Next</string>
+    <string name="bt_back">Back</string>
+
+</resources>
